@@ -1,0 +1,84 @@
+.
+├── Blueprints
+│   ├── InteractionSystem
+│   │   ├── InteractInterface.uasset
+│   │   └── UI_Interact.uasset
+│   ├── Multiplayer
+│   │   ├── FL_General.uasset
+│   │   └── GI_WoodworkingShop.uasset
+│   └── OrderGenerationSystem
+│       ├── BP_OrderSystem.uasset
+│       ├── DT_Product.uasset
+│       ├── E_PaintColor.uasset
+│       ├── OrderSturct.uasset
+│       ├── ProductStruct.uasset
+│       └── UI_OrderDisplay.uasset
+├── Collections
+├── Developers
+│   └── main
+│       └── Collections
+├── Geometry
+│   └── Meshes
+│       ├── 1M_Cube.uasset
+│       ├── CubeMaterial.uasset
+│       └── TemplateFloor.uasset
+├── Mannequin
+│   ├── Animations
+│   │   ├── ThirdPerson_AnimBP.uasset
+│   │   ├── ThirdPerson_IdleRun_2D.uasset
+│   │   ├── ThirdPersonIdle.uasset
+│   │   ├── ThirdPersonJump_Loop.uasset
+│   │   ├── ThirdPersonJump_Start.uasset
+│   │   ├── ThirdPerson_Jump.uasset
+│   │   ├── ThirdPersonRun.uasset
+│   │   └── ThirdPersonWalk.uasset
+│   └── Character
+│       ├── Materials
+│       │   ├── MaterialLayers
+│       │   │   ├── ML_GlossyBlack_Latex_UE4.uasset
+│       │   │   ├── ML_Plastic_Shiny_Beige_LOGO.uasset
+│       │   │   ├── ML_Plastic_Shiny_Beige.uasset
+│       │   │   ├── ML_SoftMetal_UE4.uasset
+│       │   │   ├── T_ML_Aluminum01_N.uasset
+│       │   │   ├── T_ML_Aluminum01.uasset
+│       │   │   ├── T_ML_Rubber_Blue_01_D.uasset
+│       │   │   └── T_ML_Rubber_Blue_01_N.uasset
+│       │   ├── MI_Female_Body.uasset
+│       │   ├── M_Male_Body.uasset
+│       │   └── M_UE4Man_ChestLogo.uasset
+│       ├── Mesh
+│       │   ├── SK_Mannequin_Female_PhysicsAsset.uasset
+│       │   ├── SK_Mannequin_Female.uasset
+│       │   ├── SK_Mannequin_PhysicsAsset.uasset
+│       │   ├── SK_Mannequin.uasset
+│       │   └── UE4_Mannequin_Skeleton.uasset
+│       └── Textures
+│           ├── T_Female_Mask.uasset
+│           ├── T_Female_N.uasset
+│           ├── T_Male_Mask.uasset
+│           ├── T_Male_N.uasset
+│           ├── T_UE4Logo_Mask.uasset
+│           └── T_UE4Logo_N.uasset
+├── Maps
+│   ├── Map_WoodworkingShop_BuiltData.uasset
+│   └── Map_WoodworkingShop.umap
+├── Materials
+│   ├── M_Base.uasset
+│   └── MI_Green.uasset
+├── StarterContent
+│   ├── Materials
+│   │   ├── M_Metal_Steel.uasset
+│   │   └── M_Wood_Floor_Walnut_Worn.uasset
+│   └── Textures
+│       ├── T_MacroVariation.uasset
+│       ├── T_Metal_Steel_D.uasset
+│       ├── T_Metal_Steel_N.uasset
+│       ├── T_Wood_Floor_Walnut_D.uasset
+│       ├── T_Wood_Floor_Walnut_M.uasset
+│       └── T_Wood_Floor_Walnut_N.uasset
+├── ThirdPersonBP
+│   └── Blueprints
+│       └── ThirdPersonCharacter.uasset
+└── tree
+
+25 directories, 57 files
