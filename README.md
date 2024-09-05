@@ -1,5 +1,3 @@
-### README for Woodworking Shop Project
-
 #### Project Overview
 This project is a multiplayer woodworking game where players manage a woodworking shop. The game involves generating and fulfilling orders, interacting with objects in the environment, and managing the shop's workflow. The game is built using Unreal Engine, and the core functionalities are organized into several Blueprint systems, as outlined below.
 
